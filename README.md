@@ -109,26 +109,50 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ### PROGRAM 
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:Srimathi M 
+RegisterNumber: 212223050053 
 */
+## D FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/8ed06611-485e-45e0-80aa-53125d92cd8a)
 
+## T FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/8bc25706-29fa-4d4a-852e-d5b972c4855a)
 
+## JK FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/4f243f4b-6d88-402b-a9ce-e2dfeacb4f8f)
 
-
-
+## SR FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/e284fa5a-c2f0-42c3-8e3d-296a74660746)
 
 ### RTL LOGIC FOR FLIPFLOPS 
+## D FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/12a557e0-1ac5-44a1-a7df-6e0fd975c622)
 
+## T FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/9c5cdb19-a72f-46e3-b44f-28252fc61206)
 
+## JK FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/f7d26488-8a3e-47e6-8bec-417ccfdc3393)
 
-
-
-
-
-
+## SR FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/2e25f09e-0d45-48e1-9780-276b2df8e191)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
+## D FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/136875d0-bf7e-4adf-a93e-e499ba9764c1)
+
+## T FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/afe21c0a-fbba-4dc1-9e24-d0d4bc4620a0)
+## JK FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/c2b36f21-8556-413d-9490-415fa686b7e5)
+## SR FLIPFLOPS 
+![image](https://github.com/srimathi1602/Experiment--05-Implementation-of-flipflops-using-verilog/assets/153518608/c0d7a68f-2512-4931-8b7e-fdc514bdb89d)
+
+
+
+
+
+
 
 
 
